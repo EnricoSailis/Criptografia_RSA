@@ -4,7 +4,7 @@ Per farsi una idea del progetto vedere i seguenti due file:
 - Esempio di crittografia RSA.docx
 
 Non descritti nei file precedenti sono le due applicazioni contenute nei file:
- GeneraChiavi.py
+ GeneraChiavi.py, 
  /build/gui_2.py
 
 La prima genera le chiavi pubblica e privata per l'applicazione della crittografia RSA
