@@ -12,4 +12,4 @@ La seconda applicazione invece consente di criptare messaggi e di decriptarli co
 
 Per poter usare i programmi installare nell'ambiente di sviluppo la libreria matematica sympy con il comando nella riga di comando:
 
-                                              pip install sympy
+                              pip install sympy
