@@ -1,6 +1,6 @@
 Per farsi una idea del progetto vedere i seguenti due file:
 
-- RSA_Sailis.docx
+- Algoritmi_RSA.docx
 - Esempio di crittografia RSA.docx
 
 Non descritti nei file precedenti sono le due applicazioni contenute nei file:
